@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, sans-serif;
+}
+
+.skor-tahtasi {
+    height: 100px;
+    text-align: center;
+    font-size: 30px;
+    background-color: #EEE;
+    padding-top: 30px;
+}
+
+.panel {
+    display: flex;
+    flex-wrap: wrap;
+    width: 610px;
+    height: 600px;
+    margin: 10px auto;
+}
+
+.kutucuk {
+    width: 200px;
+    height: 200px;
+    background-color: gainsboro;
+    margin: 1px;
+}
+
+.kutucuk-boya {
+    background-color: red;
+}
